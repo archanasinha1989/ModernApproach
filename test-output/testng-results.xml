@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17152" started-at="2020-06-29T16:12:48Z" finished-at="2020-06-29T16:13:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17152" started-at="2020-06-29T16:12:48Z" finished-at="2020-06-29T16:13:05Z">
+      <class name="Academy.DeviceTesting">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.DeviceTesting@409bf450]" name="initialize" is-config="true" duration-ms="7831" started-at="2020-06-29T21:42:48Z" finished-at="2020-06-29T21:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Device()[pri:1, instance:Academy.DeviceTesting@409bf450]" name="Device" duration-ms="9152" started-at="2020-06-29T21:42:55Z" finished-at="2020-06-29T21:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Device -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.DeviceTesting@409bf450]" name="teardown" is-config="true" duration-ms="148" started-at="2020-06-29T21:43:05Z" finished-at="2020-06-29T21:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.DeviceTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
