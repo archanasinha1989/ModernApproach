@@ -1,0 +1,4 @@
+21:49:43.190 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Opening connection {s}->https://eyesapi.applitools.com:443
+21:49:43.256 [main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connecting to eyesapi.applitools.com/13.86.255.34:443
+21:49:43.256 [main] DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory - Connecting socket to eyesapi.applitools.com/13.86.255.34:443 with timeout 300000
+21:50:04.264 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Connection discarded
